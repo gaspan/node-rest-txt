@@ -4,8 +4,8 @@
 #usage <br>
 -npm install  <br>
 
-#postman
--method:'post', 'url: http://localhost:3000/api/users' <br>
+#postman <br>
+- method:'post', 'url: http://localhost:3000/api/users' <br>
 header:<br>
 token:mytoken <br>
 payload:<br>
